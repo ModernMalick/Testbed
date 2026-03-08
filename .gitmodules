@@ -1,0 +1,3 @@
+[submodule "Assets/ModernMalick/Common"]
+	path = Assets/ModernMalick/Common
+	url = https://github.com/ModernMalick/Unity-Commons.git
