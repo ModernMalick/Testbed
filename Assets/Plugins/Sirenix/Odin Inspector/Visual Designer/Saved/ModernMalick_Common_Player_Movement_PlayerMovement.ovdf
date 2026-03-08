@@ -1,0 +1,21 @@
+OVDF v1.1
+ModernMalick.Common.Player.Movement.PlayerMovement, ModernMalick.UBS
+MetaGuid:ba3bd90542df4387b84e5647fc8d74a9
+
+# airControlFactor
+Position: "_DefaultTabGroup/Horizontal":1
+
+# coyoteTime
+Position: "_DefaultTabGroup/Jump":1
+
+# canDoubleJump
+Position: "_DefaultTabGroup/Jump":2
+
+# doubleJumpForce
+Position: "_DefaultTabGroup/Jump":3
+
+# dashDuration
+Position: "_DefaultTabGroup/Dash":1
+
+# dashCooldown
+Position: "_DefaultTabGroup/Dash":2
